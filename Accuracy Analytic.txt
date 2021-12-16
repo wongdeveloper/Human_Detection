@@ -1,0 +1,189 @@
+Dataset Tahap 2
+C=0.1, iter=100
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 93 False Positives: 44
+True Negatives: 409 False Negatives: 195
+Precision: 0.6779922173345578
+
+C=0.1, iter=1000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 117 False Positives: 76
+True Negatives: 377 False Negatives: 171
+Precision: 0.6470869104799365
+
+C=0.1, iter=10000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 111 False Positives: 79
+True Negatives: 374 False Negatives: 177
+Precision: 0.6314882032667877
+
+C=0.5, iter=100
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 14 False Positives: 13
+True Negatives: 440 False Negatives: 274
+Precision: 0.5673825085589792
+
+C=0.5, iter=1000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 90 False Positives: 60
+True Negatives: 393 False Negatives: 198
+Precision: 0.63248730964467
+
+C=0.5, iter=10000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 102 False Positives: 67
+True Negatives: 386 False Negatives: 186
+Precision: 0.6391877353415815
+
+C=1, iter=100
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 11 False Positives: 10
+True Negatives: 443 False Negatives: 277
+Precision: 0.5695436507936509
+
+C=1, iter=1000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 84 False Positives: 44
+True Negatives: 409 False Negatives: 204
+Precision: 0.661730220228385
+
+C=1, iter=10000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 101 False Positives: 66
+True Negatives: 387 False Negatives: 187
+Precision: 0.6395032235181206
+
+Dataset Tahap 4
+C=0.1, iter=100
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 26 False Positives: 14
+True Negatives: 439 False Negatives: 262
+Precision: 0.6381241084165479
+
+C=0.1, iter=1000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 62 False Positives: 32
+True Negatives: 421 False Negatives: 226
+Precision: 0.6551349929297248
+
+C=0.1, iter=10000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 189 False Positives: 162
+True Negatives: 291 False Negatives: 99
+Precision: 0.6423076923076922
+
+C=0.5, iter=100
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 171 False Positives: 181
+True Negatives: 272 False Negatives: 117
+Precision: 0.5925121231596168
+
+C=0.5, iter=1000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 195 False Positives: 148
+True Negatives: 305 False Negatives: 93
+Precision: 0.6674223889124925
+
+C=0.5, iter=10000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 194 False Positives: 166
+True Negatives: 287 False Negatives: 94
+Precision: 0.646084864391951
+
+C=1, iter=100
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 61 False Positives: 35
+True Negatives: 418 False Negatives: 227
+Precision: 0.6417393410852713
+
+C=1, iter=1000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 52 False Positives: 28
+True Negatives: 425 False Negatives: 236
+Precision: 0.646482602118003
+
+C=1, iter=10000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 181 False Positives: 154
+True Negatives: 299 False Negatives: 107
+Precision: 0.638375854716565
+
+Dataset 3
+C=0.1, iter=10000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 77 False Positives: 86
+True Negatives: 367 False Negatives: 211
+Precision: 0.5536703674613115
+
+C=1, iter=10000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 55 False Positives: 67
+True Negatives: 386 False Negatives: 233
+Precision: 0.5372030509282555
+
+C=0.5, iter=10000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 59 False Positives: 74
+True Negatives: 379 False Negatives: 229
+Precision: 0.5334821428571428
+
+C=0.5, iter=100
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 0 False Positives: 2
+True Negatives: 451 False Negatives: 288
+Precision: 0.3051420838971583
+
+C=1, iter=1000
+Positive Image Samples: 288
+Negative Image Samples: 453
+Reading Images
+True Positives: 15 False Positives: 30
+True Negatives: 423 False Negatives: 273
+Precision: 0.47054597701149425
+
+
+
